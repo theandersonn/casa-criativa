@@ -5,6 +5,8 @@ O código deste repositório é baseado na Semana OmniStack 11.0 ministrado Mayk
 
 **Casa Criativa:** A temática da aplicação é listar ideias criativas para passar o tempo em casa. Segue o frontend inegrado com banco de dados.
 
+![home page](https://raw.githubusercontent.com/theandersonn/casacriativa/master/public/casacriativa-home.png)
+
 ## Tecnologias 
 - Node.js
 - Express.js
